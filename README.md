@@ -10,7 +10,7 @@ This study looked at the daily operations’ energy consumption patterns, assess
 
 This repository serves as a **documentation of the journey behind the data analysis** conducted for my manuscript:
 
-> *[“Energy Profiling and Efficiency Enhancement of Selected Micro-Small-Medium Enterprises in Ilocos Norte, Philippines.”](/ENERGY PROFILING AND EFFICIENCY ENHANCEMENT OF SELECTED MICRO-SMALL-MEDIUM ENTERPRISE IN ILOCOS NORTE, PHILIPPINES.pdf)*
+> *[“Energy Profiling and Efficiency Enhancement of Selected Micro-Small-Medium Enterprises in Ilocos Norte, Philippines.”](ENERGY PROFILING AND EFFICIENCY ENHANCEMENT OF SELECTED MICRO-SMALL-MEDIUM ENTERPRISE IN ILOCOS NORTE, PHILIPPINES.pdf)*
 
 It includes structured notebooks that outline:
 
