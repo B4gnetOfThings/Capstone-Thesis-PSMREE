@@ -1,0 +1,130 @@
+﻿Respondent_code,Business_Category,Industry Type,NoOfOperationDays,Number_of_Operation_hours,MonthlyUsageKW_Eqpt,Business_Operation_(Day)],Mon,DailyUsageKW],Tue,Wed,Thu,Fri,Sat,Sun
+2,Micro,Retail,7,9,1335.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",44.525,44.525,44.525,44.525,44.525,44.525,44.525,44.525
+5,Micro,Food and beverages,7,9,0.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025
+6,Micro,Food and beverages,7,11,73.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.45,2.45,2.45,2.45,2.45,2.45,2.45,2.45
+8,Micro,Retail,7,9,12,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+15,Micro,Retail,7,14,27,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+17,Micro,Food and beverages,7,21,7.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625
+18,Micro,Food and beverages,7,2,54,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8
+22,Micro,Retail,7,14,68.25,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.275,2.275,2.275,2.275,2.275,2.275,2.275,2.275
+25,Micro,Food and beverages,7,7,54,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8
+29,Micro,Food and beverages,7,10,0.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025
+32,Micro,Retail,7,9,2110.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",70.35,70.35,70.35,70.35,70.35,70.35,70.35,70.35
+37,Micro,Retail,7,15,343.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",11.4625,11.4625,11.4625,11.4625,11.4625,11.4625,11.4625,11.4625
+40,Micro,Retail,7,13,2355.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",78.525,78.525,78.525,78.525,78.525,78.525,78.525,78.525
+42,Micro,Retail,7,14,27,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+50,Micro,Food and beverages,7,5,7.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625
+51,Micro,Food and beverages,7,9,1267.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",42.25,42.25,42.25,42.25,42.25,42.25,42.25,42.25
+53,Micro,Manufacturing,7,9,24.375,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.8125,0.8125,0.8125,0.8125,0.8125,0.8125,0.8125,0.8125
+55,Micro,Retail,7,13,178.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",5.9625,5.9625,5.9625,5.9625,5.9625,5.9625,5.9625,5.9625
+56,Micro,Food and beverages,7,9,7.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625
+58,Micro,Retail,7,9,75.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.525,2.525,2.525,2.525,2.525,2.525,2.525,2.525
+60,Micro,Services,7,9,177.375,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",5.9125,5.9125,5.9125,5.9125,5.9125,5.9125,5.9125,5.9125
+62,Micro,Food and beverages,7,5,73.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.45,2.45,2.45,2.45,2.45,2.45,2.45,2.45
+67,Micro,Retail,7,13,2355.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",78.525,78.525,78.525,78.525,78.525,78.525,78.525,78.525
+68,Micro,Retail,7,13,2355.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",78.525,78.525,78.525,78.525,78.525,78.525,78.525,78.525
+69,Micro,Retail,7,15,12,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+73,Micro,Retail,7,9,2110.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",70.35,70.35,70.35,70.35,70.35,70.35,70.35,70.35
+76,Micro,Food and beverages,7,11,54,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8
+79,Micro,Services,7,9,1267.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",42.25,42.25,42.25,42.25,42.25,42.25,42.25,42.25
+80,Micro,Retail,7,14,27,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+87,Micro,Retail,7,14,27,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+88,Micro,Retail,7,15,178.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",5.9625,5.9625,5.9625,5.9625,5.9625,5.9625,5.9625,5.9625
+89,Micro,Food and beverages,7,10,0.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025
+92,Micro,Retail,7,13,391.125,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",13.0375,13.0375,13.0375,13.0375,13.0375,13.0375,13.0375,13.0375
+93,Micro,Services,7,4,815.625,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",27.1875,27.1875,27.1875,27.1875,27.1875,27.1875,27.1875,27.1875
+95,Micro,Services,7,9,177.375,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",5.9125,5.9125,5.9125,5.9125,5.9125,5.9125,5.9125,5.9125
+96,Micro,Retail,7,9,2110.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",70.35,70.35,70.35,70.35,70.35,70.35,70.35,70.35
+97,Micro,Services,7,15,177.375,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",5.9125,5.9125,5.9125,5.9125,5.9125,5.9125,5.9125,5.9125
+99,Micro,Retail,7,15,391.125,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",13.0375,13.0375,13.0375,13.0375,13.0375,13.0375,13.0375,13.0375
+100,Micro,Retail,7,14,542.625,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",18.0875,18.0875,18.0875,18.0875,18.0875,18.0875,18.0875,18.0875
+102,Micro,Food and beverages,7,5,7.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625
+104,Micro,Retail,7,9,75.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.525,2.525,2.525,2.525,2.525,2.525,2.525,2.525
+109,Micro,Food and beverages,7,5,73.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.45,2.45,2.45,2.45,2.45,2.45,2.45,2.45
+112,Micro,Food and beverages,7,5,7.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625
+115,Micro,Food and beverages,7,5,7.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0.2625
+116,Micro,Retail,7,15,542.625,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",18.0875,18.0875,18.0875,18.0875,18.0875,18.0875,18.0875,18.0875
+118,Micro,Retail,7,9,75.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.525,2.525,2.525,2.525,2.525,2.525,2.525,2.525
+119,Micro,Services,7,11,1267.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",42.25,42.25,42.25,42.25,42.25,42.25,42.25,42.25
+120,Micro,Retail,7,15,12,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+121,Micro,Retail,7,14,27,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+124,Micro,Retail,7,13,178.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",5.9625,5.9625,5.9625,5.9625,5.9625,5.9625,5.9625,5.9625
+127,Micro,Services,7,4,33.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.125,1.125,1.125,1.125,1.125,1.125,1.125,1.125
+129,Micro,Retail,7,13,542.625,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",18.0875,18.0875,18.0875,18.0875,18.0875,18.0875,18.0875,18.0875
+1,Micro,Retail,7,13,391.125,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",13.0375,13.0375,13.0375,13.0375,13.0375,13.0375,13.0375,13.0375
+3,Micro,Retail,7,14,68.25,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.275,2.275,2.275,2.275,2.275,2.275,2.275,2.275
+49,Micro,Retail,7,15,343.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",11.4625,11.4625,11.4625,11.4625,11.4625,11.4625,11.4625,11.4625
+81,Micro,Retail,7,14,68.25,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.275,2.275,2.275,2.275,2.275,2.275,2.275,2.275
+4,Micro,Food and beverages,7,2,15,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+21,Micro,Food and beverages,7,4,42.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.425,1.425,1.425,1.425,1.425,1.425,1.425,1.425
+26,Micro,Food and beverages,7,9,228,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",7.6,7.6,7.6,7.6,7.6,7.6,7.6,7.6
+28,Micro,Retail,7,13,48.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.625,1.625,1.625,1.625,1.625,1.625,1.625,1.625
+35,Micro,Retail,7,9,21,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+38,Micro,Food and beverages,7,7,2644.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",88.1625,88.1625,88.1625,88.1625,88.1625,88.1625,88.1625,88.1625
+41,Micro,Retail,7,14,48.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.625,1.625,1.625,1.625,1.625,1.625,1.625,1.625
+54,Micro,Services,7,9,42.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.425,1.425,1.425,1.425,1.425,1.425,1.425,1.425
+65,Micro,Food and beverages,7,9,228,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",7.6,7.6,7.6,7.6,7.6,7.6,7.6,7.6
+78,Micro,Food and beverages,7,11,228,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",7.6,7.6,7.6,7.6,7.6,7.6,7.6,7.6
+84,Micro,Retail,7,10,48.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.625,1.625,1.625,1.625,1.625,1.625,1.625,1.625
+108,Micro,Food and beverages,7,9,2644.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",88.1625,88.1625,88.1625,88.1625,88.1625,88.1625,88.1625,88.1625
+110,Micro,Retail,7,13,39.375,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",1.3125,1.3125,1.3125,1.3125,1.3125,1.3125,1.3125,1.3125
+122,Micro,Food and beverages,7,7,2644.875,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",88.1625,88.1625,88.1625,88.1625,88.1625,88.1625,88.1625,88.1625
+44,Small,Services,7,24,218.625,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",7.2875,7.2875,7.2875,7.2875,7.2875,7.2875,7.2875,7.2875
+72,Small,Services,7,9,2207.625,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",73.5875,73.5875,73.5875,73.5875,73.5875,73.5875,73.5875,73.5875
+83,Small,Food and beverages,7,10,297,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",9.9,9.9,9.9,9.9,9.9,9.9,9.9,9.9
+85,Small,Services,7,18,217.125,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",7.2375,7.2375,7.2375,7.2375,7.2375,7.2375,7.2375,7.2375
+94,Small,Food and beverages,7,15,18.375,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.6125,0.6125,0.6125,0.6125,0.6125,0.6125,0.6125,0.6125
+7,Small,Food and beverages,7,7,124.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",4.15,4.15,4.15,4.15,4.15,4.15,4.15,4.15
+46,Medium,Services,7,24,9918,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",330.6,330.6,330.6,330.6,330.6,330.6,330.6,330.6
+86,Small,Food and beverages,7,5,15,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+90,Small,Food and beverages,7,14,73.5,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",2.45,2.45,2.45,2.45,2.45,2.45,2.45,2.45
+128,Small,Services,7,10,96.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",3.225,3.225,3.225,3.225,3.225,3.225,3.225,3.225
+9,Micro,Services,6,9,410.1428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",15.95,15.95,15.95,15.95,15.95,15.95,15.95,0
+11,Micro,Retail,6,13,575.3571429,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",22.375,22.375,22.375,22.375,22.375,22.375,22.375,0
+14,Micro,Services,3,4,14.46428571,"Friday, Saturday, Sunday",0,1.125,0,0,0,1.125,1.125,1.125
+16,Micro,Services,6,10,524.5714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",20.4,20.4,20.4,20.4,20.4,20.4,20.4,0
+20,Micro,Retail,6,9,575.3571429,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",22.375,22.375,22.375,22.375,22.375,22.375,22.375,0
+23,Micro,Manufacturing,5,9,5.625,"Monday, Tuesday, Wednesday, Thursday, Friday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0,0
+27,Micro,Retail,5,13,436.6071429,"Monday, Tuesday, Wednesday, Thursday, Friday",20.375,20.375,20.375,20.375,20.375,20.375,0,0
+31,Micro,Retail,6,9,43.71428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",1.7,1.7,1.7,1.7,1.7,1.7,1.7,0
+34,Micro,Retail,6,9,43.71428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",1.7,1.7,1.7,1.7,1.7,1.7,1.7,0
+36,Micro,Retail,6,11,0.964285714,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.0375,0.0375,0.0375,0.0375,0.0375,0.0375,0.0375,0
+59,Micro,Manufacturing,3,9,10.44642857,"Friday, Saturday, Sunday",0,0.8125,0,0,0,0.8125,0.8125,0.8125
+61,Micro,Manufacturing,3,9,10.44642857,"Friday, Saturday, Sunday",0,0.8125,0,0,0,0.8125,0.8125,0.8125
+66,Micro,Services,6,9,410.1428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",15.95,15.95,15.95,15.95,15.95,15.95,15.95,0
+70,Micro,Retail,6,9,43.71428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",1.7,1.7,1.7,1.7,1.7,1.7,1.7,0
+71,Micro,Services,3,5,14.46428571,"Friday, Saturday, Sunday",0,1.125,0,0,0,1.125,1.125,1.125
+74,Micro,Manufacturing,5,9,5.625,"Monday, Tuesday, Wednesday, Thursday, Friday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0,0
+91,Micro,Retail,6,9,0.964285714,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.0375,0.0375,0.0375,0.0375,0.0375,0.0375,0.0375,0
+101,Micro,Food and beverages,5,9,16.60714286,"Monday, Tuesday, Wednesday, Thursday, Friday",0.775,0.775,0.775,0.775,0.775,0.775,0,0
+103,Micro,Manufacturing,5,9,5.625,"Monday, Tuesday, Wednesday, Thursday, Friday",0.2625,0.2625,0.2625,0.2625,0.2625,0.2625,0,0
+106,Micro,Retail,6,9,575.3571429,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",22.375,22.375,22.375,22.375,22.375,22.375,22.375,0
+113,Micro,Retail,6,11,0.964285714,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.0375,0.0375,0.0375,0.0375,0.0375,0.0375,0.0375,0
+125,Micro,Retail,5,9,436.6071429,"Monday, Tuesday, Wednesday, Thursday, Friday",20.375,20.375,20.375,20.375,20.375,20.375,0,0
+126,Micro,Services,6,9,410.1428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",15.95,15.95,15.95,15.95,15.95,15.95,15.95,0
+30,Micro,Retail,5,13,436.6071429,"Monday, Tuesday, Wednesday, Thursday, Friday",20.375,20.375,20.375,20.375,20.375,20.375,0,0
+57,Micro,Food and beverages,5,9,16.60714286,"Monday, Tuesday, Wednesday, Thursday, Friday",0.775,0.775,0.775,0.775,0.775,0.775,0,0
+75,Micro,Food and beverages,5,9,16.60714286,"Monday, Tuesday, Wednesday, Thursday, Friday",0.775,0.775,0.775,0.775,0.775,0.775,0,0
+13,Small,Retail,6,9,1162.928571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",45.225,45.225,45.225,45.225,45.225,45.225,45.225,0
+82,Small,Food and beverages,5,9,0,"Monday, Tuesday, Wednesday, Thursday, Friday",0,0,0,0,0,0,0,0
+105,Medium,Food and beverages,6,12,189,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",7.35,7.35,7.35,7.35,7.35,7.35,7.35,0
+111,Medium,Food and beverages,6,9,46.60714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",1.8125,1.8125,1.8125,1.8125,1.8125,1.8125,1.8125,0
+117,Small,Services,6,9,50.46428571,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",1.9625,1.9625,1.9625,1.9625,1.9625,1.9625,1.9625,0
+10,Micro,Food and beverages,6,8,5.785714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.225,0.225,0.225,0.225,0.225,0.225,0.225,0
+12,Small,Manufacturing,6,5,20.57142857,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.8,0.8,0.8,0.8,0.8,0.8,0.8,0
+19,Micro,Food and beverages,6,9,5.785714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.225,0.225,0.225,0.225,0.225,0.225,0.225,0
+24,Micro,Services,6,9,0.642857143,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.025,0.025,0.025,0.025,0.025,0.025,0.025,0
+33,Micro,Food and beverages,6,5,36.64285714,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",1.425,1.425,1.425,1.425,1.425,1.425,1.425,0
+39,Micro,Manufacturing,6,12,416.5714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",16.2,16.2,16.2,16.2,16.2,16.2,16.2,0
+43,Micro,Food and beverages,4,9,336,"Wednesday, Thursday, Friday, Saturday",0,19.6,0,19.6,19.6,19.6,19.6,0
+45,Micro,Manufacturing,6,9,416.5714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",16.2,16.2,16.2,16.2,16.2,16.2,16.2,0
+47,Micro,Food and beverages,6,13,504,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",19.6,19.6,19.6,19.6,19.6,19.6,19.6,0
+48,Micro,Agriculture,6,9,375.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",14.6125,14.6125,14.6125,14.6125,14.6125,14.6125,14.6125,0
+52,Micro,Agriculture,6,9,375.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",14.6125,14.6125,14.6125,14.6125,14.6125,14.6125,14.6125,0
+63,Micro,Food and beverages,6,11,504,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",19.6,19.6,19.6,19.6,19.6,19.6,19.6,0
+64,Micro,Services,6,9,0.642857143,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.025,0.025,0.025,0.025,0.025,0.025,0.025,0
+77,Micro,Retail,3,4,9,"Friday, Saturday, Sunday",0,0.7,0,0,0,0.7,0.7,0.7
+98,Micro,Agriculture,6,9,375.75,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",14.6125,14.6125,14.6125,14.6125,14.6125,14.6125,14.6125,0
+107,Micro,Services,6,7,0.642857143,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.025,0.025,0.025,0.025,0.025,0.025,0.025,0
+114,Micro,Retail,6,9,18,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",0.7,0.7,0.7,0.7,0.7,0.7,0.7,0
+123,Micro,Manufacturing,6,9,416.5714286,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",16.2,16.2,16.2,16.2,16.2,16.2,16.2,0
