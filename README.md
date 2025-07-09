@@ -1,1 +1,30 @@
-Overall mean is 15.43 KW. Refrigeration, lightning and ventilation are top energy consuming categories. Most MSMEs operate within a low energy intensity range, however, there are some few outliers from different sectors or business category that needs further enhancement. Sunday has the lesser usage and Fridays has the most. Operating hours are not a good indicator of energy consumption. Through a structured awareness intervention, the study also revealed improved understanding and adoption of energy-efficient practices, particularly in relation to renewable energy. The assessment of energy efficiency practices highlighted strong applicability in areas such as LED lighting, behavioral changes, and energy-efficient appliances, presenting immediate opportunities for improvement. Based on their calculated daily energy consumption, tailored solar PV setups were recommended, with most businesses falling within the 1 to 6 kW system range. Higher-capacity systems (above 20 kW) were not encouraged to pursue standalone setups due to cost and storage limitations. Battery storage remains essential for off-grid reliability but is economically viable primarily for small to mid-sized installations. Single line diagram grid tie setup is provided as recommendation
+
+# Energy Profiling and Efficiency Enhancement of Selected Micro-Small-Medium Enterprise in Ilocos Norte, Philippines
+
+
+## Abstract
+This study looked at the daily operations’ energy consumption patterns, assessed corporate operators' energy awareness, and suggested doable plans for cutting use and improving efficiency of MSMEs in Ilocos Norte. By not only identifying areas in need of improvement but also arming MSMEs with the required knowledge to adopt sustainable practices inside their operations. The study demonstrates that with the right knowledge and tools, MSMEs can significantly reduce operational costs and enhance sustainability. Findings support the formulation of localized energy interventions and policies that empower MSMEs to contribute to broader renewable energy and climate goals.
+
+
+## 📌 **Purpose of this Repository**
+
+This repository serves as a **documentation of the journey behind the data analysis** conducted for my manuscript:
+
+> *“Energy Profiling and Efficiency Enhancement of Selected Micro-Small-Medium Enterprises in Ilocos Norte, Philippines.”*
+
+It includes structured notebooks that outline:
+
+- The **storylines of data cleaning, analysis, and visualization**,  
+- Insights that informed the manuscript’s results and discussions, and  
+- The process of developing recommendations for MSME energy efficiency and renewable energy adoption.
+
+By sharing this, I aim to provide transparency in my analytical workflow, support reproducibility, and serve as a resource for other researchers working on energy profiling, MSME development, or renewable energy feasibility studies.
+
+---
+
+**Author:** Jomel C. Felix  
+**Year:** 2025
+
+---
+
+_For questions or collaborations, kindly reach out via email or GitHub issues._
