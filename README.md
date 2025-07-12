@@ -10,7 +10,7 @@ This study looked at the daily operations’ energy consumption patterns, assess
 
 This repository serves as a **documentation of the journey behind the data analysis** conducted for my manuscript:
 
-> *[“Energy Profiling and Efficiency Enhancement of Selected Micro-Small-Medium Enterprises in Ilocos Norte, Philippines.”](https://github.com/B4gnetOfThings/Capstone-Thesis-PSMREE/blob/be33dc28900be335da42107e6f5c4e33f65441cf/ENERGY%20PROFILING%20AND%20EFFICIENCY%20ENHANCEMENT%20OF%20SELECTED%20MICRO-SMALL-MEDIUM%20ENTERPRISE%20IN%20ILOCOS%20NORTE%2C%20PHILIPPINES.pdf)*
+> *[“Energy Profiling and Efficiency Enhancement of Selected Micro-Small-Medium Enterprises in Ilocos Norte, Philippines.”](https://github.com/B4gnetOfThings/Capstone-Thesis-PSMREE/blob/db077a2d9a2bb4294e2ad4bf38edb4def9454d50/EnergyProfilingMSMES.pdf)*
 
 It includes structured notebooks that outline:
 
