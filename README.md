@@ -17,6 +17,11 @@ It includes structured notebooks that outline:
 - The **storylines of data cleaning, analysis, and visualization**,  
 - Insights that informed the manuscript’s results and discussions, and  
 - The process of developing recommendations for MSME energy efficiency and renewable energy adoption.
+- Performed energy profiling by assessing consumption for each piece of equipment over the last three months, facilitating focused efficiency improvements
+- Developed Power BI dashboards to visualize energy consumption patterns, facilitating actionable recommendations
+- Utilized advanced Excel functions, Power Query, and data cleaning methodologies to effectively process survey and estimate data
+- Utilized Python libraries such as pandas, matplotlib, and statsmodels for conducting statistical testing and creating data visualizations
+
 
 By sharing this, I aim to provide transparency in my analytical workflow, support reproducibility, and serve as a resource for other researchers working on energy profiling, MSME development, or renewable energy feasibility studies.
 
